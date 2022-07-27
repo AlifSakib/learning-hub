@@ -4,6 +4,14 @@
 body {
   /* font-family: "Bebas Neue", cursive;
   font-family: "Montserrat", sans-serif;
-  font-family: "Poppins", sans-serif; */
-  font-family: "Quicksand", sans-serif;
+  
+  /* font-family: "Quicksand", sans-serif; */
+  font-family: "Poppins", sans-serif;
+}
+
+.carousel-item img {
+  filter: brightness(70%);
+  width: auto;
+  height: 700px;
+  object-fit: cover;
 }
